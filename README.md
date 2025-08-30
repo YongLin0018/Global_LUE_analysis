@@ -1,5 +1,5 @@
 # Global_LUE_analysis
-This repository contains Python code for modeling and mapping global Light Use Efficiency (LUE) parameters using machine learning and spatial analysis techniques. 
+This repository contains Python code for modeling and mapping global Light Use Efficiency (LUE) using machine learning and spatial analysis techniques. 
 
 Python Requirements:
 Python 3.10+
@@ -12,6 +12,7 @@ The files we provide include:
 4. example data for ridge or SHAP analysis.xlsx is the example data for ridge analysis.py and SHAP analysis.py
 5. example data for upscaling.xlsx is the example data for Mapping global LUE.py
 
+The output including visualization results of ridge and SHAP analysis, as well as predicted LUE with a resolution of 0.05 °.
 In order to run Mapping global LUE.py, a folder containing tif files of 16 prediction parameters with a resolution of 0.05 ° needs to be prepared.
 
 Contact
